@@ -19,6 +19,6 @@ The model uses a multi-task learning approach:
 * **Total Accuracy:** 97.72%
 
 ## 🛠️ Usage
-1. Open the notebook `project_better_v8.ipynb`.
+1. Open the notebook `model.ipynb`.
 2. Run the training cells to calibrate thresholds.
 3. Evaluate on OOD datasets.
