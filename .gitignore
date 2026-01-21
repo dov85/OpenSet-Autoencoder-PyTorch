@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Data
+data/
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
